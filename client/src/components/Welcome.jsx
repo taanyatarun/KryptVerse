@@ -111,7 +111,7 @@ const Welcome = () => {
                   Send now
                 </button>
               )}
-          </div>
+          </div> 
         </div>
       </div>
     </div>
