@@ -2,7 +2,7 @@
 
 ## A simple Web3.0 Blockchain app for users to exchange cryptocurrency around the globe.
 
-### Feautures:
+### Features:
 
     -> Connected to Blockchain
   
@@ -10,6 +10,6 @@
   
     -> Interaction with smart contracts
   
-    -> Sending Ethereum throug the blockchain network
+    -> Sending Ethereum through the blockchain network
     
 ### Testnet used : Sepolia Faucet
